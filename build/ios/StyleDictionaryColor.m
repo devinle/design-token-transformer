@@ -3,7 +3,7 @@
 // StyleDictionaryColor.m
 //
 // Do not edit directly
-// Generated on Sat, 13 Feb 2021 01:36:38 GMT
+// Generated on Sat, 13 Feb 2021 20:31:17 GMT
 //
 
 #import "StyleDictionaryColor.h"

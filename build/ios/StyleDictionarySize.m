@@ -3,7 +3,7 @@
 // StyleDictionarySize.m
 //
 // Do not edit directly
-// Generated on Sat, 13 Feb 2021 01:36:38 GMT
+// Generated on Sat, 13 Feb 2021 20:31:17 GMT
 //
 
 #import "StyleDictionarySize.h"
@@ -110,7 +110,7 @@ float const EffectInnerShadowMultiple2OffsetY = 2;
 float const EffectInnerShadowMultiple2Spread = 11;
 float const EffectLayerBlurRadius = 4;
 float const EffectBackgroundBlurRadius = 4;
-float const HeadingHeading1XlLFontSize = 48;
+float const HeadingHeading1XlLFontSize = 244;
 float const HeadingHeading1XlLFontWeight = 700;
 float const HeadingHeading1XlLLetterSpacing = 0;
 float const HeadingHeading1XlLLineHeight = 150;
@@ -218,7 +218,7 @@ float const TextHintLetterSpacing = 0;
 float const TextHintLineHeight = 125;
 float const TextHintParagraphIndent = 0;
 float const TextHintParagraphSpacing = 0;
-float const TextLabelFontSize = 288;
+float const TextLabelFontSize = 12;
 float const TextLabelFontWeight = 500;
 float const TextLabelLetterSpacing = 0;
 float const TextLabelLineHeight = 125;
