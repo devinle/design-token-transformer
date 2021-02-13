@@ -251,7 +251,7 @@
     "heading-1 (xl, l)": {
       "category": "font",
       "fontSize": {
-        "value": 244,
+        "value": 48,
         "type": "number",
         "unit": "pixel"
       },

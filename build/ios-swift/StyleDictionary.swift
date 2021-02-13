@@ -3,7 +3,7 @@
 // StyleDictionary.swift
 //
 // Do not edit directly
-// Generated on Sat, 13 Feb 2021 20:31:17 GMT
+// Generated on Sat, 13 Feb 2021 20:37:21 GMT
 //
 
 
@@ -225,7 +225,7 @@ public class StyleDictionary {
     public static let headingHeading1STextCase = none
     public static let headingHeading1STextDecoration = none
     public static let headingHeading1XlLFontFamily = Roboto
-    public static let headingHeading1XlLFontSize = 244
+    public static let headingHeading1XlLFontSize = 48
     public static let headingHeading1XlLFontStretch = normal
     public static let headingHeading1XlLFontStyle = normal
     public static let headingHeading1XlLFontStyleOld = Bold
