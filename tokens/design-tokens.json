@@ -1035,7 +1035,7 @@
     "heading-5 (s)": {
       "category": "font",
       "fontSize": {
-        "value": 18,
+        "value": 188,
         "type": "number",
         "unit": "pixel"
       },
