@@ -3,7 +3,7 @@
 // StyleDictionarySize.m
 //
 // Do not edit directly
-// Generated on Sun, 14 Feb 2021 00:36:40 GMT
+// Generated on Tue, 16 Feb 2021 23:05:20 GMT
 //
 
 #import "StyleDictionarySize.h"
@@ -194,7 +194,7 @@ float const HeadingHeading4SLetterSpacing = 0;
 float const HeadingHeading4SLineHeight = 150;
 float const HeadingHeading4SParagraphIndent = 0;
 float const HeadingHeading4SParagraphSpacing = 0;
-float const HeadingHeading5SFontSize = 188;
+float const HeadingHeading5SFontSize = 44;
 float const HeadingHeading5SFontWeight = 700;
 float const HeadingHeading5SLetterSpacing = 0;
 float const HeadingHeading5SLineHeight = 150;
