@@ -3,13 +3,23 @@
 // StyleDictionary.swift
 //
 // Do not edit directly
+<<<<<<< HEAD
 // Generated on Tue, 16 Feb 2021 23:05:20 GMT
+=======
+<<<<<<< HEAD
+// Generated on Sat, 13 Feb 2021 00:08:18 GMT
+=======
+// Generated on Sun, 14 Feb 2021 00:36:40 GMT
+>>>>>>> ef6c8afe35a2350efee3f6d34898b11f8507c62d
+>>>>>>> main
 //
 
 
 import UIKit
 
 public class StyleDictionary {
+<<<<<<< HEAD
+=======
     public static let bodyH3FontFamily = Roboto
     public static let bodyH3FontSize = 20
     public static let bodyH3FontStyle = Medium
@@ -73,6 +83,7 @@ public class StyleDictionary {
     public static let colorsSingleBlue = rgba(4, 74, 255, 1)
     public static let colorsSpecialCharactersAnderung = rgba(52, 86, 175, 1)
     public static let colorsSpecialCharacters😅 = rgba(64, 223, 80, 1)
+>>>>>>> ef6c8afe35a2350efee3f6d34898b11f8507c62d
     public static let darkThemeBackground1 = rgba(17, 17, 17, 1)
     public static let darkThemeBackground2 = rgba(38, 38, 38, 1)
     public static let darkThemeBrandAccent = rgba(253, 180, 71, 1)
@@ -92,6 +103,8 @@ public class StyleDictionary {
     public static let darkThemeUiSecondary = rgba(161, 161, 161, 1)
     public static let darkThemeUiSuccess = rgba(28, 189, 0, 1)
     public static let darkThemeUiTertiary = rgba(60, 60, 60, 1)
+<<<<<<< HEAD
+=======
     public static let effectBackgroundBlurRadius = 4
     public static let effectBackgroundBlurType = backgroundBlur
     public static let effectDropShadowSingleColor = rgba(0, 0, 0, 0.25)
@@ -200,6 +213,7 @@ public class StyleDictionary {
     public static let gridSingleGutterSize = 20
     public static let gridSinglePattern = columns
     public static let gridSingleSectionSize = 11
+>>>>>>> ef6c8afe35a2350efee3f6d34898b11f8507c62d
     public static let headingHeading1MFontFamily = Roboto
     public static let headingHeading1MFontSize = 40
     public static let headingHeading1MFontStretch = normal
@@ -357,7 +371,15 @@ public class StyleDictionary {
     public static let headingHeading5MTextCase = none
     public static let headingHeading5MTextDecoration = none
     public static let headingHeading5SFontFamily = Roboto
+<<<<<<< HEAD
     public static let headingHeading5SFontSize = 44
+=======
+<<<<<<< HEAD
+    public static let headingHeading5SFontSize = 18
+=======
+    public static let headingHeading5SFontSize = 188
+>>>>>>> ef6c8afe35a2350efee3f6d34898b11f8507c62d
+>>>>>>> main
     public static let headingHeading5SFontStretch = normal
     public static let headingHeading5SFontStyle = normal
     public static let headingHeading5SFontStyleOld = Bold
@@ -579,6 +601,8 @@ public class StyleDictionary {
     public static let linkNavigation3HoverParagraphSpacing = 0
     public static let linkNavigation3HoverTextCase = none
     public static let linkNavigation3HoverTextDecoration = underline
+<<<<<<< HEAD
+=======
     public static let radiiMixedRadiiBottomLeft = 0
     public static let radiiMixedRadiiBottomRight = 3.5
     public static let radiiMixedRadiiTopLeft = 1
@@ -596,6 +620,7 @@ public class StyleDictionary {
     public static let sizesFrame = 32
     public static let sizesRect = 32
     public static let sizesShapeInComponent = 32
+>>>>>>> ef6c8afe35a2350efee3f6d34898b11f8507c62d
     public static let textBodyFontFamily = Helvetica Neue
     public static let textBodyFontSize = 16
     public static let textBodyFontStretch = normal

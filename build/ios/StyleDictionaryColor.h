@@ -3,13 +3,23 @@
 // StyleDictionaryColor.h
 //
 // Do not edit directly
+<<<<<<< HEAD
 // Generated on Tue, 16 Feb 2021 23:05:20 GMT
+=======
+<<<<<<< HEAD
+// Generated on Sat, 13 Feb 2021 00:08:18 GMT
+=======
+// Generated on Sun, 14 Feb 2021 00:36:40 GMT
+>>>>>>> ef6c8afe35a2350efee3f6d34898b11f8507c62d
+>>>>>>> main
 //
 
 #import <UIKit/UIKit.h>
 
 
 typedef NS_ENUM(NSInteger, StyleDictionaryColorName) {
+<<<<<<< HEAD
+=======
 BordersUnsupportedMultipleBordersStroke,
 BordersSingleStroke,
 BordersSingleStyleStroke,
@@ -35,6 +45,7 @@ EffectDropShadowSingleColor,
 EffectInnerShadowMultiple0Color,
 EffectInnerShadowMultiple1Color,
 EffectInnerShadowMultiple2Color,
+>>>>>>> ef6c8afe35a2350efee3f6d34898b11f8507c62d
 LightThemeBrandPrimary,
 LightThemeBrandSecondary,
 LightThemeBrandAccent,

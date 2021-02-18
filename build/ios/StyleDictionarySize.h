@@ -2,13 +2,23 @@
 // StyleDictionarySize.h
 //
 // Do not edit directly
+<<<<<<< HEAD
 // Generated on Tue, 16 Feb 2021 23:05:20 GMT
+=======
+<<<<<<< HEAD
+// Generated on Sat, 13 Feb 2021 00:08:18 GMT
+=======
+// Generated on Sun, 14 Feb 2021 00:36:40 GMT
+>>>>>>> ef6c8afe35a2350efee3f6d34898b11f8507c62d
+>>>>>>> main
 //
 
 #import <Foundation/Foundation.h>
 
 
 
+<<<<<<< HEAD
+=======
 extern float const Sizes32;
 extern float const SizesFrame;
 extern float const SizesRect;
@@ -109,6 +119,7 @@ extern float const EffectInnerShadowMultiple2OffsetY;
 extern float const EffectInnerShadowMultiple2Spread;
 extern float const EffectLayerBlurRadius;
 extern float const EffectBackgroundBlurRadius;
+>>>>>>> ef6c8afe35a2350efee3f6d34898b11f8507c62d
 extern float const HeadingHeading1XlLFontSize;
 extern float const HeadingHeading1XlLFontWeight;
 extern float const HeadingHeading1XlLLetterSpacing;

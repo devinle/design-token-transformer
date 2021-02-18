@@ -3,13 +3,23 @@
 // StyleDictionarySize.m
 //
 // Do not edit directly
+<<<<<<< HEAD
 // Generated on Tue, 16 Feb 2021 23:05:20 GMT
+=======
+<<<<<<< HEAD
+// Generated on Sat, 13 Feb 2021 00:08:18 GMT
+=======
+// Generated on Sun, 14 Feb 2021 00:36:40 GMT
+>>>>>>> ef6c8afe35a2350efee3f6d34898b11f8507c62d
+>>>>>>> main
 //
 
 #import "StyleDictionarySize.h"
 
 
 
+<<<<<<< HEAD
+=======
 float const Sizes32 = 32.72;
 float const SizesFrame = 32;
 float const SizesRect = 32;
@@ -110,6 +120,7 @@ float const EffectInnerShadowMultiple2OffsetY = 2;
 float const EffectInnerShadowMultiple2Spread = 11;
 float const EffectLayerBlurRadius = 4;
 float const EffectBackgroundBlurRadius = 4;
+>>>>>>> ef6c8afe35a2350efee3f6d34898b11f8507c62d
 float const HeadingHeading1XlLFontSize = 48;
 float const HeadingHeading1XlLFontWeight = 700;
 float const HeadingHeading1XlLLetterSpacing = 0;
@@ -194,7 +205,15 @@ float const HeadingHeading4SLetterSpacing = 0;
 float const HeadingHeading4SLineHeight = 150;
 float const HeadingHeading4SParagraphIndent = 0;
 float const HeadingHeading4SParagraphSpacing = 0;
+<<<<<<< HEAD
 float const HeadingHeading5SFontSize = 44;
+=======
+<<<<<<< HEAD
+float const HeadingHeading5SFontSize = 18;
+=======
+float const HeadingHeading5SFontSize = 188;
+>>>>>>> ef6c8afe35a2350efee3f6d34898b11f8507c62d
+>>>>>>> main
 float const HeadingHeading5SFontWeight = 700;
 float const HeadingHeading5SLetterSpacing = 0;
 float const HeadingHeading5SLineHeight = 150;

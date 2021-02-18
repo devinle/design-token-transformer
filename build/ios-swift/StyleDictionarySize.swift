@@ -3,12 +3,22 @@
 // StyleDictionarySize.swift
 //
 // Do not edit directly
+<<<<<<< HEAD
 // Generated on Tue, 16 Feb 2021 23:05:20 GMT
+=======
+<<<<<<< HEAD
+// Generated on Sat, 13 Feb 2021 00:08:18 GMT
+=======
+// Generated on Sun, 14 Feb 2021 00:36:40 GMT
+>>>>>>> ef6c8afe35a2350efee3f6d34898b11f8507c62d
+>>>>>>> main
 //
 
 import UIKit
 
 public enum StyleDictionarySize {
+<<<<<<< HEAD
+=======
     public static let h3FontSize = 20
     public static let h3LetterSpacing = 2
     public static let h3LineHeight = 160
@@ -94,6 +104,7 @@ public enum StyleDictionarySize {
     public static let singleCount = 5
     public static let singleGutterSize = 20
     public static let singleSectionSize = 11
+>>>>>>> ef6c8afe35a2350efee3f6d34898b11f8507c62d
     public static let heading1MFontSize = 40
     public static let heading1MFontWeight = 700
     public static let heading1MLetterSpacing = 0
@@ -172,7 +183,15 @@ public enum StyleDictionarySize {
     public static let heading5MLineHeight = 150
     public static let heading5MParagraphIndent = 0
     public static let heading5MParagraphSpacing = 0
+<<<<<<< HEAD
     public static let heading5SFontSize = 44
+=======
+<<<<<<< HEAD
+    public static let heading5SFontSize = 18
+=======
+    public static let heading5SFontSize = 188
+>>>>>>> ef6c8afe35a2350efee3f6d34898b11f8507c62d
+>>>>>>> main
     public static let heading5SFontWeight = 700
     public static let heading5SLetterSpacing = 0
     public static let heading5SLineHeight = 150
@@ -274,6 +293,8 @@ public enum StyleDictionarySize {
     public static let navigation3HoverLineHeight = 125
     public static let navigation3HoverParagraphIndent = 0
     public static let navigation3HoverParagraphSpacing = 0
+<<<<<<< HEAD
+=======
     public static let mixedRadiiBottomLeft = 0
     public static let mixedRadiiBottomRight = 3.5
     public static let mixedRadiiTopLeft = 1
@@ -289,6 +310,7 @@ public enum StyleDictionarySize {
     public static let frame = 32
     public static let rect = 32
     public static let shapeInComponent = 32
+>>>>>>> ef6c8afe35a2350efee3f6d34898b11f8507c62d
     public static let bodyFontSize = 16
     public static let bodyFontWeight = 400
     public static let bodyLetterSpacing = 0

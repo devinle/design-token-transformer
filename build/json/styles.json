@@ -1,4 +1,6 @@
 {
+<<<<<<< HEAD
+=======
   "Sizes32": 32.72,
   "SizesFrame": 32,
   "SizesRect": 32,
@@ -187,6 +189,7 @@
   "EffectLayerBlurRadius": 4,
   "EffectBackgroundBlurType": "backgroundBlur",
   "EffectBackgroundBlurRadius": 4,
+>>>>>>> ef6c8afe35a2350efee3f6d34898b11f8507c62d
   "LightThemeBrandPrimary": "rgba(1, 46, 134, 1)",
   "LightThemeBrandSecondary": "rgba(0, 100, 217, 1)",
   "LightThemeBrandAccent": "rgba(219, 124, 0, 1)",
@@ -393,7 +396,15 @@
   "HeadingHeading4SParagraphIndent": 0,
   "HeadingHeading4SParagraphSpacing": 0,
   "HeadingHeading4STextCase": "none",
+<<<<<<< HEAD
   "HeadingHeading5SFontSize": 44,
+=======
+<<<<<<< HEAD
+  "HeadingHeading5SFontSize": 18,
+=======
+  "HeadingHeading5SFontSize": 188,
+>>>>>>> ef6c8afe35a2350efee3f6d34898b11f8507c62d
+>>>>>>> main
   "HeadingHeading5STextDecoration": "none",
   "HeadingHeading5SFontFamily": "Roboto",
   "HeadingHeading5SFontWeight": 700,
