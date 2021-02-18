@@ -1035,7 +1035,11 @@
     "heading-5 (s)": {
       "category": "font",
       "fontSize": {
+<<<<<<< HEAD
         "value": 18,
+=======
+        "value": 188,
+>>>>>>> ef6c8afe35a2350efee3f6d34898b11f8507c62d
         "type": "number",
         "unit": "pixel"
       },
