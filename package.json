@@ -1,6 +1,6 @@
 {
   "name": "@devinle/design-token-transformer",
-  "version": "0.5.2",
+  "version": "0.5.1",
   "description": "Base repo to transform json design tokens from the figma design token plugin via amazon style directory.",
   "main": "index.js",
   "dependencies": {
