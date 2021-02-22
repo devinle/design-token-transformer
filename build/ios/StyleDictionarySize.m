@@ -3,7 +3,7 @@
 // StyleDictionarySize.m
 //
 // Do not edit directly
-// Generated on Mon, 22 Feb 2021 19:51:57 GMT
+// Generated on Mon, 22 Feb 2021 20:17:53 GMT
 //
 
 #import "StyleDictionarySize.h"
@@ -214,3 +214,8 @@ float const LinkNavigation3ActiveLetterSpacing = 0;
 float const LinkNavigation3ActiveLineHeight = 125;
 float const LinkNavigation3ActiveParagraphIndent = 0;
 float const LinkNavigation3ActiveParagraphSpacing = 0;
+float const MobileHeadingXxlFontSize = 48;
+float const MobileHeadingXxlFontWeight = 400;
+float const MobileHeadingXxlLetterSpacing = 0;
+float const MobileHeadingXxlParagraphIndent = 0;
+float const MobileHeadingXxlParagraphSpacing = 0;

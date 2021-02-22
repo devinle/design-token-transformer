@@ -444,5 +444,17 @@
   "LinkNavigation3ActiveLineHeight": 125,
   "LinkNavigation3ActiveParagraphIndent": 0,
   "LinkNavigation3ActiveParagraphSpacing": 0,
-  "LinkNavigation3ActiveTextCase": "none"
+  "LinkNavigation3ActiveTextCase": "none",
+  "MobileHeadingXxlFontSize": 48,
+  "MobileHeadingXxlTextDecoration": "none",
+  "MobileHeadingXxlFontFamily": "Roboto",
+  "MobileHeadingXxlFontWeight": 400,
+  "MobileHeadingXxlFontStyle": "normal",
+  "MobileHeadingXxlFontStretch": "normal",
+  "MobileHeadingXxlFontStyleOld": "Regular",
+  "MobileHeadingXxlLetterSpacing": 0,
+  "MobileHeadingXxlLineHeight": "normal",
+  "MobileHeadingXxlParagraphIndent": 0,
+  "MobileHeadingXxlParagraphSpacing": 0,
+  "MobileHeadingXxlTextCase": "none"
 }

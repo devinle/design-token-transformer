@@ -3,7 +3,7 @@
 // StyleDictionarySize.swift
 //
 // Do not edit directly
-// Generated on Mon, 22 Feb 2021 19:51:57 GMT
+// Generated on Mon, 22 Feb 2021 20:17:53 GMT
 //
 
 import UIKit
@@ -189,6 +189,11 @@ public enum StyleDictionarySize {
     public static let navigation3HoverLineHeight = 125
     public static let navigation3HoverParagraphIndent = 0
     public static let navigation3HoverParagraphSpacing = 0
+    public static let headingXxlFontSize = 48
+    public static let headingXxlFontWeight = 400
+    public static let headingXxlLetterSpacing = 0
+    public static let headingXxlParagraphIndent = 0
+    public static let headingXxlParagraphSpacing = 0
     public static let bodyFontSize = 16
     public static let bodyFontWeight = 400
     public static let bodyLetterSpacing = 0

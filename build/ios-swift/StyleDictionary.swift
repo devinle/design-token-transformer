@@ -3,7 +3,7 @@
 // StyleDictionary.swift
 //
 // Do not edit directly
-// Generated on Mon, 22 Feb 2021 19:51:57 GMT
+// Generated on Mon, 22 Feb 2021 20:17:53 GMT
 //
 
 
@@ -408,6 +408,18 @@ public class StyleDictionary {
     public static let linkNavigation3HoverParagraphSpacing = 0
     public static let linkNavigation3HoverTextCase = none
     public static let linkNavigation3HoverTextDecoration = underline
+    public static let mobileHeadingXxlFontFamily = Roboto
+    public static let mobileHeadingXxlFontSize = 48
+    public static let mobileHeadingXxlFontStretch = normal
+    public static let mobileHeadingXxlFontStyle = normal
+    public static let mobileHeadingXxlFontStyleOld = Regular
+    public static let mobileHeadingXxlFontWeight = 400
+    public static let mobileHeadingXxlLetterSpacing = 0
+    public static let mobileHeadingXxlLineHeight = normal
+    public static let mobileHeadingXxlParagraphIndent = 0
+    public static let mobileHeadingXxlParagraphSpacing = 0
+    public static let mobileHeadingXxlTextCase = none
+    public static let mobileHeadingXxlTextDecoration = none
     public static let textBodyFontFamily = Helvetica Neue
     public static let textBodyFontSize = 16
     public static let textBodyFontStretch = normal

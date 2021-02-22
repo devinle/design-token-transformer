@@ -2,7 +2,7 @@
 // StyleDictionarySize.h
 //
 // Do not edit directly
-// Generated on Mon, 22 Feb 2021 19:51:57 GMT
+// Generated on Mon, 22 Feb 2021 20:17:53 GMT
 //
 
 #import <Foundation/Foundation.h>
@@ -213,3 +213,8 @@ extern float const LinkNavigation3ActiveLetterSpacing;
 extern float const LinkNavigation3ActiveLineHeight;
 extern float const LinkNavigation3ActiveParagraphIndent;
 extern float const LinkNavigation3ActiveParagraphSpacing;
+extern float const MobileHeadingXxlFontSize;
+extern float const MobileHeadingXxlFontWeight;
+extern float const MobileHeadingXxlLetterSpacing;
+extern float const MobileHeadingXxlParagraphIndent;
+extern float const MobileHeadingXxlParagraphSpacing;
