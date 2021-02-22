@@ -37,7 +37,7 @@
   "DarkThemeTextInverse": "rgba(38, 38, 38, 1)",
   "DarkThemeTextError": "rgba(255, 77, 77, 1)",
   "DarkThemeTextSuccess": "rgba(28, 189, 0, 1)",
-  "HeadingHeading1XlLFontSize": 48,
+  "HeadingHeading1XlLFontSize": 144,
   "HeadingHeading1XlLTextDecoration": "none",
   "HeadingHeading1XlLFontFamily": "Roboto",
   "HeadingHeading1XlLFontWeight": 700,
